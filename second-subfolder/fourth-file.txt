@@ -1,1 +1,3 @@
 Fourth file text line
+
+This file was modified in the VS in the feature	branch
